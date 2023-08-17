@@ -55,10 +55,13 @@
     padding: 1em;
     background-color: var(--branco);
 }
-{
-    @media screen and (min-wiht: 825px){
+
+@media screen and (min-width: 1024px){
     .titulo__cabecalho{
-        font-size: ;
+        font-size: 30px;
+        font-family: var(--font-secundaria);
+        color: aqua (43, 226, 101);
+        display: block;
 
 
     }

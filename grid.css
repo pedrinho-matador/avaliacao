@@ -15,3 +15,15 @@
     margin-bottom: 7px;
     text-align: center;
 }
+@media screen and (min-width: 1024px) {
+
+    .Imagem{
+        border-top: 10px groove rgb(27, 121, 165);
+        border-left: 10px dotted rgb(52, 182, 102);
+        border-right: 10px solid rgb(133, 168, 75);
+        border-bottom: 10px dashed rgb(165, 147, 46);
+        width: 200px !important;
+        height: 200px !important;
+    }
+    
+}
