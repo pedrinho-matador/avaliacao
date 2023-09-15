@@ -60,10 +60,10 @@
 
   @media screen and (min-width: 1024px) {
 .titulo__cabecalho{
-    font-size: 30px;
+    font-size: 60px;
     font-family: var(--font-secundaria);
-    color: rgb(16, 38, 165);
+    color: rgb(226, 168, 43);
     display: block;
     }
-    
+
   }
